@@ -10,3 +10,5 @@ print('joan loopt weer bij')
 
 print("Joan is up to date")
 print('test')
+
+print('Check of desktop thuis werkt')
