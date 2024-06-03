@@ -6,3 +6,5 @@ print('joan loopt achter')
 print('-10 aura')
 
 print('joan loopt weer bij')
+
+print('test')
